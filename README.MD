@@ -29,7 +29,9 @@
 </p>
   
 I also have experience in creating a library:
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrei1994rus&repo=compare_versions_numbers-leetcode)
+
 This library published in [NPM](https://www.npmjs.com/package/compare_versions_numbers-leetcode).
 
 
